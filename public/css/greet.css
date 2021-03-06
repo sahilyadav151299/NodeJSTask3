@@ -1,0 +1,12 @@
+.main-content_greet{
+    color:rgb(71, 71, 71);
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 1em;
+    margin: auto;
+    margin-top: 100px;
+};
+
